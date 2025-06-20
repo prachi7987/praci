@@ -1,4 +1,2 @@
-class Test{
-private String address;
-private String city;
-}
+class 
+xyz

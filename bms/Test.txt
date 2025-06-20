@@ -1,2 +1,9 @@
+
 class 
 xyz
+
+class Test{
+private Integer id;
+private String address;
+private String city;
+}

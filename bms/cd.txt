@@ -1,3 +1,10 @@
+
 c++
 android
 data science
+
+java
+python 
+mern 
+php
+c

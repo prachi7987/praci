@@ -1,1 +1,4 @@
-hello github, this is a new file.
+class Test{
+private String address;
+private String city;
+}
